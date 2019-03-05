@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image } from 'semantic-ui-react';
+import { Image, Container } from 'semantic-ui-react';
 
 export default class Logo extends React.Component {
   render() {
