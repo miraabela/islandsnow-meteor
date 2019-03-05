@@ -1,0 +1,17 @@
+.top-nav {
+  padding-bottom: 50px;
+}
+.bottom-nav {
+  margin: 10px 0;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+.f {
+  width: 100%;
+  background-color: black;
+  margin-top: 10px;
+  padding-bottom: 30px;
+}
